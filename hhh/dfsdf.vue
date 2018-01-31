@@ -3,9 +3,6 @@
 </template>
 
 <script>
-    export default {
-        name: "dfsdf"
-    }
 </script>
 
 <style scoped>
